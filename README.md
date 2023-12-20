@@ -8,7 +8,7 @@
 ### Beykent University – Istanbul, Turkey
 **Bachelor's Degree, Electrical and Electronics Engineering**  
 _September 2018 – September 2022_  
-- 🎵 Participated in Music, Research and Development (R&D), and Technology clubs.
+-  Participated in Music, Research and Development (R&D), and Technology clubs.
 
 ### Istanbul University – Istanbul, Turkey
 **Associate’s Degree, Computer Programming**  
