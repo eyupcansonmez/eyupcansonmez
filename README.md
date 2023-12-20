@@ -55,23 +55,38 @@ _February 2023 – March 2023_
 - 🤖 Provided support through Github post-earthquake
 
 ## 🌟 SKILLS
-Java, Python, Internet of Things, Linux, IoT Security, AWS, JUnit, Appium, Gauge, Selenium, Test Automation, API, Rest Assured, Postman, Soap UI, Cucumber, Agile & Scrum, Azure DevOps, JIRA, SQL, Manual Testing
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-000000?style=flat&logo=internet-of-things&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-672C52?style=flat&logo=appium&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/-RestAssured-6DB33F?style=flat&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📜 CERTIFICATIONS
-- ISTQB Foundation Level Certificate
-- IoT Security - Türkiye Siber Güvenlik Kümelenmesi
-- Postman - Rest Api Testing
-- Git&Github Eğitimi
-- Appium-Mobile Testing
-- Agile Project Management and Scrum Methodology
-- Web Penetration Testing - Atil Samancioglu
-- Load Testing Training - Testinium
-- C# - İstanbul Eğitim Akademi
-- Java Bootcamp - Engin Demirog
-- English - American LIFE Language Schools
-- English - Open English
+- 🏅 ISTQB Foundation Level Certificate
+- 🏅 IoT Security - Türkiye Siber Güvenlik Kümelenmesi
+- 🏅 Postman - Rest Api Testing
+- 🏅 Git&Github Eğitimi
+- 🏅 Appium-Mobile Testing
+- 🏅 Agile Project Management and Scrum Methodology
+- 🏅 Web Penetration Testing - Atil Samancioglu
+- 🏅 Load Testing Training - Testinium
+- 🏅 C# - İstanbul Eğitim Akademi
+- 🏅 Java Bootcamp - Engin Demirog
+- 🏅 English - American LIFE Language Schools
+- 🏅 English - Open English
 
 ## 🗣️ LANGUAGES
 - 🇹🇷 Turkish: Native
 - 🇬🇧 English: Advanced
 - 🇩🇪 German: Beginner
+
+## 📊 My GitHub Stats
+![Eyüp Can SÖNMEZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyupcansonmez&show_icons=true)
+
+## 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupcansonmez&layout=compact)
